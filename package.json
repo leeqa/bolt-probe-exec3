@@ -1,0 +1,8 @@
+{
+  "name": "bolt-probe-exec3",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "left-pad": "1.0.0"
+  }
+}
